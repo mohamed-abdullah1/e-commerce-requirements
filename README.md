@@ -1,47 +1,54 @@
 # e-commerce-requirements
 A list of Requirements for an e-commerce Website
-## 1. Enhanced Shopping Cart 
-#### Requirement: Having a simple navigation page helps identify and organize your buyers' products easily. You can also use a guest checkout option to enable a fast and easy checkout process. Moreover, implementing Security Badges like SSL certificate increases the user trust in your brand. 
+-Can you recommend any website as a reference?
+Jumia.
+
+## Navigation bar
+-What do you want to be showed in the navigation bar?
+Logo, search bar, signing-in icon, profile icon, shopping cart, hot deals, language.
+-Do category pages include appropriate search and filter by features and what is these features?
+Yes. Size, brand, discount percentage, price, producer, trader.
+
+## Login page
+The user can choose to login as a customer or a seller.
+
+## Home
+-What do you want to be showed in the home page?
+Categories, trending products, recommended products, best sellers, filtering and ordering by.
+-How many categories do you want and what are them?
+I need categories for supermarket, fashion, health, electronics and other categories.
+
+## User profile
+-Will every user have a profile with payment method, his contacts, wish list, credit card info, past orders, and delivery date info?
+-Is there multiple payment methods and what are them?
+-Can the user edit his profile?
+-Can he track the product while being delivered?
+
+## Product page
+It should contain a photo for the product, zoom feature for the product photo, its cost, discount, its specification, details, coupon, add to cart option, users feedback, useful or not, seller response, comparing option, recommended related products and other products that people bought this product view.
+
+## Ordering page
+In it the user can choose his payment method, put his address and available contact methods.
+
+## Admin
+-Is there a feature for the admin to accept sellers based on their credibility?
+Yes.
+-Can admin delete a product and sellers?
+Yes.
+-Can the admin read customers reports and accept or refuse it?
+Yes. 
 
 
-## 2. Flexible Return Policy 
-#### Requirement: There should be an easy way for the customers to return or exchange an item they are not happy with. 
 
-
-
-## 3. Mobile-Friendly Website 
-#### Requirement: Ecommerce stores that are not optimized for mobile devices forces your customers to zoom in and out to because of improper visualization while navigating to another page. So, it is highly recommended to optimize your site for mobile phones, tablets, etc. 
-
-## 4. Highly Customizable Themes 
-#### Requirement: Themes must support the website owners to edit the content of the products and manage the portfolios. It should include blog posts to promote the product. Also, it should reflect the product niche or business vertical. 
-
-
-## 5. Content management system
-#### Requirements: Blogging and product description help buyers learn about products and platforms in a detailed manner. So, it's necessary for you to provide a highly clear and relevant content about the product. 
-
-
-## 6. Email Marketing tools 
-#### Requirements: Frequent communication with the customers helps to make them continue shopping on your site for a long time. Sometimes sending individual promotion emails with an item related to their ordered history will maximize the chance of buying that product. 
-
-
-## 7. Social media integration 
-#### Requirement: One of the easiest ways of reaching customers is through social media. Your social media pages should be integrated into your website to allow promoting your products through posts, and personalized messages.  
-
-
-
-## 8. Third-party shipment integration 
-#### Requirement: Once customers placed their order, there should be detailed information regarding the shipment which includes delivery time, order status, and documentation like invoice and bills. Shipment services must provide continuous tracking and frequent communication regarding any new update. 
-
-
-
-## 9. Customer Support and Interface 
-#### Requirements: To engages and retain customers on your website, there should be an intuitive user interface that can provide your clients with a fast and convenient shopping experience. 
-
-
-
-## 10. Product comparison and user-generated reviews 
-#### Requirement: To make shopping a fruitful experience, it is necessary to provide additional information beyond product descriptions. So, it is necessary to have detailed and effective testimonials about the product along with the existing user’s review and comment on the product. 
-
+## Other features
+-Does he can pay when receiving his product?
+No.
+-Can the user pay using installment?
+Yes.
+-Can we rate the sellers?
+Yes.
+-Can the customer refund or replace the product?
+Yes.
 
 
 
