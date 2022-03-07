@@ -1,19 +1,19 @@
 # e-commerce-requirements
 A list of Requirements for an e-commerce Website
-1. Enhanced Shopping Cart 
-Requirement: Having a simple navigation page helps identify and organize your buyers' products easily. You can also use a guest checkout option to enable a fast and easy checkout process. Moreover, implementing Security Badges like SSL certificate increases the user trust in your brand. 
+## 1. Enhanced Shopping Cart 
+#### Requirement: Having a simple navigation page helps identify and organize your buyers' products easily. You can also use a guest checkout option to enable a fast and easy checkout process. Moreover, implementing Security Badges like SSL certificate increases the user trust in your brand. 
 
 
-2. Flexible Return Policy 
-Requirement: There should be an easy way for the customers to return or exchange an item they are not happy with. 
+## 2. Flexible Return Policy 
+#### Requirement: There should be an easy way for the customers to return or exchange an item they are not happy with. 
 
 
 
-3. Mobile-Friendly Website 
-Requirement: Ecommerce stores that are not optimized for mobile devices forces your customers to zoom in and out to because of improper visualization while navigating to another page. So, it is highly recommended to optimize your site for mobile phones, tablets, etc. 
+## 3. Mobile-Friendly Website 
+#### Requirement: Ecommerce stores that are not optimized for mobile devices forces your customers to zoom in and out to because of improper visualization while navigating to another page. So, it is highly recommended to optimize your site for mobile phones, tablets, etc. 
 
-4. Highly Customizable Themes 
-Requirement: Themes must support the website owners to edit the content of the products and manage the portfolios. It should include blog posts to promote the product. Also, it should reflect the product niche or business vertical. 
+## 4. Highly Customizable Themes 
+#### Requirement: Themes must support the website owners to edit the content of the products and manage the portfolios. It should include blog posts to promote the product. Also, it should reflect the product niche or business vertical. 
 
 
 5. Content management system
