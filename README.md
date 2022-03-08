@@ -7,10 +7,10 @@ A list of Requirements for an e-commerce Website
 ### What do you want to be showed in the navigation bar?
 > Logo, search bar, signing-in icon, profile icon, shopping cart, hot deals, language.
 ### Do category pages include appropriate search and filter by features and what is these features?
-Yes. Size, brand, discount percentage, price, producer, trader.
+> Yes. Size, brand, discount percentage, price, producer, trader.
 
 ## Login page
-The user can choose to login as a customer or a seller.
+> The user can choose to login as a customer or a seller.
 
 ## Home
 ### What do you want to be showed in the home page?
